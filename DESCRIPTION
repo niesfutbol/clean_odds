@@ -1,4 +1,4 @@
-Package: templater
+Package: cleanOdds
 Title: Template for R projects
 Authors@R: c(
     person(given = "nies futbol",

@@ -1,3 +1,3 @@
 library(testthat)
-library(templater)
-test_check("templater")
+library(cleanOdds)
+test_check("cleanOdds")

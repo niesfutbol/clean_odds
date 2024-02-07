@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: nepolin/templater:latest
+    image: nepolin/clean_odds:latest
     command: bash
     volumes:
       - $PWD:/workdir
