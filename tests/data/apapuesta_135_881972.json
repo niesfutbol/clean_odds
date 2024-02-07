@@ -1,0 +1,3843 @@
+{
+	"league": {
+		"id": 135,
+		"name": "Serie A",
+		"country": "Italy",
+		"logo": "https://media.api-sports.io/football/leagues/135.png",
+		"flag": "https://media.api-sports.io/flags/it.svg",
+		"season": 2022
+	},
+	"fixture": {
+		"id": 881972,
+		"timezone": "UTC",
+		"date": "2023-01-28T17:00:00+00:00",
+		"timestamp": 1674925200
+	},
+	"update": "2023-01-28T12:02:11+00:00",
+	"bookmakers": [
+		{
+			"id": 8,
+			"name": "Bet365",
+			"bets": [
+				{
+					"id": 1,
+					"name": "Match Winner",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "6.50"
+						},
+						{
+							"value": "Draw",
+							"odd": "4.33"
+						},
+						{
+							"value": "Away",
+							"odd": "1.50"
+						}
+					]
+				},
+				{
+					"id": 2,
+					"name": "Home/Away",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "5.00"
+						},
+						{
+							"value": "Away",
+							"odd": "1.17"
+						}
+					]
+				},
+				{
+					"id": 3,
+					"name": "Second Half Winner",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "5.50"
+						},
+						{
+							"value": "Draw",
+							"odd": "2.75"
+						},
+						{
+							"value": "Away",
+							"odd": "1.73"
+						}
+					]
+				},
+				{
+					"id": 4,
+					"name": "Asian Handicap",
+					"values": [
+						{
+							"value": "Home +0",
+							"odd": "5.00"
+						},
+						{
+							"value": "Away +0",
+							"odd": "1.17"
+						},
+						{
+							"value": "Home -0.25",
+							"odd": "5.75"
+						},
+						{
+							"value": "Away -0.25",
+							"odd": "1.14"
+						},
+						{
+							"value": "Home +0.25",
+							"odd": "3.30"
+						},
+						{
+							"value": "Away +0.25",
+							"odd": "1.32"
+						},
+						{
+							"value": "Home -0.5",
+							"odd": "6.25"
+						},
+						{
+							"value": "Away -0.5",
+							"odd": "1.12"
+						},
+						{
+							"value": "Home +0.5",
+							"odd": "2.60"
+						},
+						{
+							"value": "Away +0.5",
+							"odd": "1.48"
+						},
+						{
+							"value": "Home +0.75",
+							"odd": "2.35"
+						},
+						{
+							"value": "Away +0.75",
+							"odd": "1.58"
+						},
+						{
+							"value": "Home +1",
+							"odd": "2.10"
+						},
+						{
+							"value": "Away +1",
+							"odd": "1.83"
+						},
+						{
+							"value": "Home +1.5",
+							"odd": "1.58"
+						},
+						{
+							"value": "Away +1.5",
+							"odd": "2.35"
+						},
+						{
+							"value": "Home +1.25",
+							"odd": "1.75"
+						},
+						{
+							"value": "Away +1.25",
+							"odd": "2.05"
+						},
+						{
+							"value": "Home +1.75",
+							"odd": "1.43"
+						},
+						{
+							"value": "Away +1.75",
+							"odd": "2.75"
+						},
+						{
+							"value": "Home +2",
+							"odd": "1.27"
+						},
+						{
+							"value": "Away +2",
+							"odd": "3.55"
+						},
+						{
+							"value": "Home +3",
+							"odd": "1.10"
+						},
+						{
+							"value": "Away +3",
+							"odd": "7.00"
+						},
+						{
+							"value": "Home +2.5",
+							"odd": "1.21"
+						},
+						{
+							"value": "Away +2.5",
+							"odd": "4.25"
+						},
+						{
+							"value": "Home +2.25",
+							"odd": "1.24"
+						},
+						{
+							"value": "Away +2.25",
+							"odd": "3.90"
+						},
+						{
+							"value": "Home +2.75",
+							"odd": "1.14"
+						},
+						{
+							"value": "Away +2.75",
+							"odd": "5.75"
+						}
+					]
+				},
+				{
+					"id": 5,
+					"name": "Goals Over/Under",
+					"values": [
+						{
+							"value": "Over 3.5",
+							"odd": "3.00"
+						},
+						{
+							"value": "Under 3.5",
+							"odd": "1.40"
+						},
+						{
+							"value": "Over 1.5",
+							"odd": "1.25"
+						},
+						{
+							"value": "Under 1.5",
+							"odd": "4.00"
+						},
+						{
+							"value": "Over 4.5",
+							"odd": "5.50"
+						},
+						{
+							"value": "Under 4.5",
+							"odd": "1.14"
+						},
+						{
+							"value": "Over 2.5",
+							"odd": "1.80"
+						},
+						{
+							"value": "Under 2.5",
+							"odd": "2.00"
+						},
+						{
+							"value": "Over 0.5",
+							"odd": "1.05"
+						},
+						{
+							"value": "Under 0.5",
+							"odd": "11.00"
+						},
+						{
+							"value": "Over 5.5",
+							"odd": "11.00"
+						},
+						{
+							"value": "Under 5.5",
+							"odd": "1.05"
+						},
+						{
+							"value": "Over 2.25",
+							"odd": "1.60"
+						},
+						{
+							"value": "Under 2.25",
+							"odd": "2.30"
+						},
+						{
+							"value": "Over 3.25",
+							"odd": "2.67"
+						},
+						{
+							"value": "Under 3.25",
+							"odd": "1.45"
+						},
+						{
+							"value": "Over 2.75",
+							"odd": "2.02"
+						},
+						{
+							"value": "Under 2.75",
+							"odd": "1.77"
+						},
+						{
+							"value": "Over 1.25",
+							"odd": "1.15"
+						},
+						{
+							"value": "Under 1.25",
+							"odd": "5.50"
+						},
+						{
+							"value": "Over 4.25",
+							"odd": "5.50"
+						},
+						{
+							"value": "Under 4.25",
+							"odd": "1.15"
+						},
+						{
+							"value": "Over 1.75",
+							"odd": "1.30"
+						},
+						{
+							"value": "Under 1.75",
+							"odd": "3.45"
+						},
+						{
+							"value": "Over 3.75",
+							"odd": "3.55"
+						},
+						{
+							"value": "Under 3.75",
+							"odd": "1.27"
+						},
+						{
+							"value": "Over 4.75",
+							"odd": "6.80"
+						},
+						{
+							"value": "Under 4.75",
+							"odd": "1.10"
+						},
+						{
+							"value": "Over 6.5",
+							"odd": "23.00"
+						},
+						{
+							"value": "Under 6.5",
+							"odd": "1.01"
+						},
+						{
+							"value": "Over 7.5",
+							"odd": "51.00"
+						},
+						{
+							"value": "Under 7.5",
+							"odd": "1.00"
+						},
+						{
+							"value": "Over 3.0",
+							"odd": "2.38"
+						},
+						{
+							"value": "Under 3.0",
+							"odd": "1.55"
+						},
+						{
+							"value": "Over 2.0",
+							"odd": "1.38"
+						},
+						{
+							"value": "Under 2.0",
+							"odd": "3.00"
+						},
+						{
+							"value": "Over 4.0",
+							"odd": "4.80"
+						},
+						{
+							"value": "Under 4.0",
+							"odd": "1.18"
+						}
+					]
+				},
+				{
+					"id": 6,
+					"name": "Goals Over/Under First Half",
+					"values": [
+						{
+							"value": "Over 3.5",
+							"odd": "19.00"
+						},
+						{
+							"value": "Under 3.5",
+							"odd": "1.02"
+						},
+						{
+							"value": "Over 1.5",
+							"odd": "2.63"
+						},
+						{
+							"value": "Under 1.5",
+							"odd": "1.44"
+						},
+						{
+							"value": "Over 2.5",
+							"odd": "7.00"
+						},
+						{
+							"value": "Under 2.5",
+							"odd": "1.10"
+						},
+						{
+							"value": "Over 0.5",
+							"odd": "1.36"
+						},
+						{
+							"value": "Under 0.5",
+							"odd": "3.00"
+						},
+						{
+							"value": "Over 2.25",
+							"odd": "6.00"
+						},
+						{
+							"value": "Under 2.25",
+							"odd": "1.13"
+						},
+						{
+							"value": "Over 1.25",
+							"odd": "2.25"
+						},
+						{
+							"value": "Under 1.25",
+							"odd": "1.63"
+						},
+						{
+							"value": "Over 1.75",
+							"odd": "3.45"
+						},
+						{
+							"value": "Under 1.75",
+							"odd": "1.30"
+						},
+						{
+							"value": "Over 0.75",
+							"odd": "1.50"
+						},
+						{
+							"value": "Under 0.75",
+							"odd": "2.50"
+						},
+						{
+							"value": "Over 2.0",
+							"odd": "5.50"
+						},
+						{
+							"value": "Under 2.0",
+							"odd": "1.15"
+						},
+						{
+							"value": "Over 1.0",
+							"odd": "1.80"
+						},
+						{
+							"value": "Under 1.0",
+							"odd": "2.05"
+						}
+					]
+				},
+				{
+					"id": 26,
+					"name": "Goals Over/Under - Second Half",
+					"values": [
+						{
+							"value": "Over 3.5",
+							"odd": "11.00"
+						},
+						{
+							"value": "Under 3.5",
+							"odd": "1.05"
+						},
+						{
+							"value": "Over 1.5",
+							"odd": "2.00"
+						},
+						{
+							"value": "Under 1.5",
+							"odd": "1.73"
+						},
+						{
+							"value": "Over 4.5",
+							"odd": "26.00"
+						},
+						{
+							"value": "Under 4.5",
+							"odd": "1.01"
+						},
+						{
+							"value": "Over 2.5",
+							"odd": "4.00"
+						},
+						{
+							"value": "Under 2.5",
+							"odd": "1.22"
+						},
+						{
+							"value": "Over 0.5",
+							"odd": "1.20"
+						},
+						{
+							"value": "Under 0.5",
+							"odd": "4.33"
+						}
+					]
+				},
+				{
+					"id": 7,
+					"name": "HT/FT Double",
+					"values": [
+						{
+							"value": "Home/Draw",
+							"odd": "17.00"
+						},
+						{
+							"value": "Home/Away",
+							"odd": "21.00"
+						},
+						{
+							"value": "Draw/Away",
+							"odd": "4.00"
+						},
+						{
+							"value": "Draw/Draw",
+							"odd": "6.50"
+						},
+						{
+							"value": "Home/Home",
+							"odd": "11.00"
+						},
+						{
+							"value": "Draw/Home",
+							"odd": "13.00"
+						},
+						{
+							"value": "Away/Home",
+							"odd": "41.00"
+						},
+						{
+							"value": "Away/Draw",
+							"odd": "15.00"
+						},
+						{
+							"value": "Away/Away",
+							"odd": "2.25"
+						}
+					]
+				},
+				{
+					"id": 27,
+					"name": "Clean Sheet - Home",
+					"values": [
+						{
+							"value": "Yes",
+							"odd": "6.50"
+						},
+						{
+							"value": "No",
+							"odd": "1.11"
+						}
+					]
+				},
+				{
+					"id": 28,
+					"name": "Clean Sheet - Away",
+					"values": [
+						{
+							"value": "Yes",
+							"odd": "2.10"
+						},
+						{
+							"value": "No",
+							"odd": "1.67"
+						}
+					]
+				},
+				{
+					"id": 8,
+					"name": "Both Teams Score",
+					"values": [
+						{
+							"value": "Yes",
+							"odd": "1.95"
+						},
+						{
+							"value": "No",
+							"odd": "1.80"
+						}
+					]
+				},
+				{
+					"id": 9,
+					"name": "Handicap Result",
+					"values": [
+						{
+							"value": "Home -1",
+							"odd": "17.00"
+						},
+						{
+							"value": "Away -1",
+							"odd": "1.11"
+						},
+						{
+							"value": "Draw -1",
+							"odd": "8.50"
+						},
+						{
+							"value": "Home +1",
+							"odd": "2.50"
+						},
+						{
+							"value": "Away +1",
+							"odd": "2.30"
+						},
+						{
+							"value": "Draw +1",
+							"odd": "3.60"
+						},
+						{
+							"value": "Home +2",
+							"odd": "1.57"
+						},
+						{
+							"value": "Draw +2",
+							"odd": "4.33"
+						},
+						{
+							"value": "Away +2",
+							"odd": "4.33"
+						},
+						{
+							"value": "Home -2",
+							"odd": "41.00"
+						},
+						{
+							"value": "Draw -2",
+							"odd": "21.00"
+						},
+						{
+							"value": "Away -2",
+							"odd": "1.02"
+						},
+						{
+							"value": "Home +3",
+							"odd": "1.20"
+						},
+						{
+							"value": "Draw +3",
+							"odd": "7.00"
+						},
+						{
+							"value": "Away +3",
+							"odd": "9.00"
+						}
+					]
+				},
+				{
+					"id": 10,
+					"name": "Exact Score",
+					"values": [
+						{
+							"value": "1:0",
+							"odd": "17.00"
+						},
+						{
+							"value": "2:0",
+							"odd": "34.00"
+						},
+						{
+							"value": "2:1",
+							"odd": "21.00"
+						},
+						{
+							"value": "3:0",
+							"odd": "67.00"
+						},
+						{
+							"value": "3:1",
+							"odd": "51.00"
+						},
+						{
+							"value": "3:2",
+							"odd": "51.00"
+						},
+						{
+							"value": "4:0",
+							"odd": "251.00"
+						},
+						{
+							"value": "4:1",
+							"odd": "151.00"
+						},
+						{
+							"value": "4:2",
+							"odd": "151.00"
+						},
+						{
+							"value": "4:3",
+							"odd": "201.00"
+						},
+						{
+							"value": "5:1",
+							"odd": "501.00"
+						},
+						{
+							"value": "5:2",
+							"odd": "501.00"
+						},
+						{
+							"value": "0:0",
+							"odd": "11.00"
+						},
+						{
+							"value": "1:1",
+							"odd": "8.00"
+						},
+						{
+							"value": "2:2",
+							"odd": "19.00"
+						},
+						{
+							"value": "3:3",
+							"odd": "51.00"
+						},
+						{
+							"value": "4:4",
+							"odd": "301.00"
+						},
+						{
+							"value": "0:1",
+							"odd": "7.00"
+						},
+						{
+							"value": "0:2",
+							"odd": "7.00"
+						},
+						{
+							"value": "0:3",
+							"odd": "10.00"
+						},
+						{
+							"value": "0:4",
+							"odd": "19.00"
+						},
+						{
+							"value": "0:5",
+							"odd": "41.00"
+						},
+						{
+							"value": "0:6",
+							"odd": "67.00"
+						},
+						{
+							"value": "1:2",
+							"odd": "8.50"
+						},
+						{
+							"value": "1:3",
+							"odd": "12.00"
+						},
+						{
+							"value": "1:4",
+							"odd": "23.00"
+						},
+						{
+							"value": "1:5",
+							"odd": "41.00"
+						},
+						{
+							"value": "1:6",
+							"odd": "81.00"
+						},
+						{
+							"value": "2:3",
+							"odd": "26.00"
+						},
+						{
+							"value": "2:4",
+							"odd": "41.00"
+						},
+						{
+							"value": "2:5",
+							"odd": "67.00"
+						},
+						{
+							"value": "2:6",
+							"odd": "151.00"
+						},
+						{
+							"value": "3:4",
+							"odd": "101.00"
+						},
+						{
+							"value": "3:5",
+							"odd": "201.00"
+						},
+						{
+							"value": "4:5",
+							"odd": "501.00"
+						},
+						{
+							"value": "0:7",
+							"odd": "151.00"
+						},
+						{
+							"value": "1:7",
+							"odd": "201.00"
+						},
+						{
+							"value": "3:6",
+							"odd": "501.00"
+						},
+						{
+							"value": "0:8",
+							"odd": "501.00"
+						},
+						{
+							"value": "1:8",
+							"odd": "501.00"
+						},
+						{
+							"value": "2:7",
+							"odd": "451.00"
+						}
+					]
+				},
+				{
+					"id": 11,
+					"name": "Highest Scoring Half",
+					"values": [
+						{
+							"value": "Draw",
+							"odd": "3.60"
+						},
+						{
+							"value": "1st Half",
+							"odd": "3.10"
+						},
+						{
+							"value": "2nd Half",
+							"odd": "2.05"
+						}
+					]
+				},
+				{
+					"id": 31,
+					"name": "Correct Score - First Half",
+					"values": [
+						{
+							"value": "1:0",
+							"odd": "8.00"
+						},
+						{
+							"value": "2:0",
+							"odd": "34.00"
+						},
+						{
+							"value": "2:1",
+							"odd": "41.00"
+						},
+						{
+							"value": "3:0",
+							"odd": "126.00"
+						},
+						{
+							"value": "3:1",
+							"odd": "151.00"
+						},
+						{
+							"value": "3:2",
+							"odd": "301.00"
+						},
+						{
+							"value": "0:0",
+							"odd": "3.00"
+						},
+						{
+							"value": "1:1",
+							"odd": "8.50"
+						},
+						{
+							"value": "2:2",
+							"odd": "51.00"
+						},
+						{
+							"value": "3:3",
+							"odd": "501.00"
+						},
+						{
+							"value": "0:1",
+							"odd": "3.40"
+						},
+						{
+							"value": "0:2",
+							"odd": "7.50"
+						},
+						{
+							"value": "0:3",
+							"odd": "21.00"
+						},
+						{
+							"value": "0:4",
+							"odd": "51.00"
+						},
+						{
+							"value": "0:5",
+							"odd": "201.00"
+						},
+						{
+							"value": "1:2",
+							"odd": "19.00"
+						},
+						{
+							"value": "1:3",
+							"odd": "41.00"
+						},
+						{
+							"value": "1:4",
+							"odd": "126.00"
+						},
+						{
+							"value": "1:5",
+							"odd": "501.00"
+						},
+						{
+							"value": "2:3",
+							"odd": "126.00"
+						},
+						{
+							"value": "2:4",
+							"odd": "451.00"
+						}
+					]
+				},
+				{
+					"id": 12,
+					"name": "Double Chance",
+					"values": [
+						{
+							"value": "Home/Draw",
+							"odd": "2.50"
+						},
+						{
+							"value": "Home/Away",
+							"odd": "1.20"
+						},
+						{
+							"value": "Draw/Away",
+							"odd": "1.11"
+						}
+					]
+				},
+				{
+					"id": 13,
+					"name": "First Half Winner",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "6.50"
+						},
+						{
+							"value": "Draw",
+							"odd": "2.38"
+						},
+						{
+							"value": "Away",
+							"odd": "2.00"
+						}
+					]
+				},
+				{
+					"id": 14,
+					"name": "Team To Score First",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "3.60"
+						},
+						{
+							"value": "Draw",
+							"odd": "11.00"
+						},
+						{
+							"value": "Away",
+							"odd": "1.33"
+						}
+					]
+				},
+				{
+					"id": 15,
+					"name": "Team To Score Last",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "3.60"
+						},
+						{
+							"value": "Draw",
+							"odd": "11.00"
+						},
+						{
+							"value": "Away",
+							"odd": "1.33"
+						}
+					]
+				},
+				{
+					"id": 32,
+					"name": "Win Both Halves",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "26.00"
+						},
+						{
+							"value": "Away",
+							"odd": "3.75"
+						}
+					]
+				},
+				{
+					"id": 16,
+					"name": "Total - Home",
+					"values": [
+						{
+							"value": "Over 3.5",
+							"odd": "51.00"
+						},
+						{
+							"value": "Under 3.5",
+							"odd": "1.00"
+						},
+						{
+							"value": "Over 1.5",
+							"odd": "4.50"
+						},
+						{
+							"value": "Under 1.5",
+							"odd": "1.18"
+						},
+						{
+							"value": "Over 2.5",
+							"odd": "15.00"
+						},
+						{
+							"value": "Under 2.5",
+							"odd": "1.03"
+						}
+					]
+				},
+				{
+					"id": 17,
+					"name": "Total - Away",
+					"values": [
+						{
+							"value": "Over 3.5",
+							"odd": "6.00"
+						},
+						{
+							"value": "Under 3.5",
+							"odd": "1.13"
+						},
+						{
+							"value": "Over 1.5",
+							"odd": "1.57"
+						},
+						{
+							"value": "Under 1.5",
+							"odd": "2.25"
+						},
+						{
+							"value": "Over 4.5",
+							"odd": "15.00"
+						},
+						{
+							"value": "Under 4.5",
+							"odd": "1.03"
+						},
+						{
+							"value": "Over 2.5",
+							"odd": "2.75"
+						},
+						{
+							"value": "Under 2.5",
+							"odd": "1.40"
+						},
+						{
+							"value": "Over 5.5",
+							"odd": "29.00"
+						},
+						{
+							"value": "Under 5.5",
+							"odd": "1.01"
+						},
+						{
+							"value": "Over 6.5",
+							"odd": "51.00"
+						},
+						{
+							"value": "Under 6.5",
+							"odd": "1.00"
+						}
+					]
+				},
+				{
+					"id": 18,
+					"name": "Handicap Result - First Half",
+					"values": [
+						{
+							"value": "Home -1",
+							"odd": "23.00"
+						},
+						{
+							"value": "Away -1",
+							"odd": "1.10"
+						},
+						{
+							"value": "Draw -1",
+							"odd": "6.50"
+						},
+						{
+							"value": "Home +1",
+							"odd": "1.73"
+						},
+						{
+							"value": "Away +1",
+							"odd": "5.00"
+						},
+						{
+							"value": "Draw +1",
+							"odd": "3.00"
+						},
+						{
+							"value": "Home +2",
+							"odd": "1.13"
+						},
+						{
+							"value": "Draw +2",
+							"odd": "6.50"
+						},
+						{
+							"value": "Away +2",
+							"odd": "15.00"
+						},
+						{
+							"value": "Home +3",
+							"odd": "1.02"
+						},
+						{
+							"value": "Draw +3",
+							"odd": "19.00"
+						},
+						{
+							"value": "Away +3",
+							"odd": "41.00"
+						}
+					]
+				},
+				{
+					"id": 19,
+					"name": "Asian Handicap First Half",
+					"values": [
+						{
+							"value": "Home +0",
+							"odd": "3.80"
+						},
+						{
+							"value": "Away +0",
+							"odd": "1.25"
+						},
+						{
+							"value": "Home -0.25",
+							"odd": "5.00"
+						},
+						{
+							"value": "Away -0.25",
+							"odd": "1.17"
+						},
+						{
+							"value": "Home +0.25",
+							"odd": "2.20"
+						},
+						{
+							"value": "Away +0.25",
+							"odd": "1.65"
+						},
+						{
+							"value": "Home -0.5",
+							"odd": "6.00"
+						},
+						{
+							"value": "Away -0.5",
+							"odd": "1.13"
+						},
+						{
+							"value": "Home +0.5",
+							"odd": "1.77"
+						},
+						{
+							"value": "Away +0.5",
+							"odd": "2.10"
+						},
+						{
+							"value": "Home +0.75",
+							"odd": "1.50"
+						},
+						{
+							"value": "Away +0.75",
+							"odd": "2.50"
+						},
+						{
+							"value": "Home +1",
+							"odd": "1.26"
+						},
+						{
+							"value": "Away +1",
+							"odd": "3.70"
+						},
+						{
+							"value": "Home +1.5",
+							"odd": "1.16"
+						},
+						{
+							"value": "Away +1.5",
+							"odd": "5.25"
+						},
+						{
+							"value": "Home +1.25",
+							"odd": "1.20"
+						},
+						{
+							"value": "Away +1.25",
+							"odd": "4.40"
+						},
+						{
+							"value": "Home +1.75",
+							"odd": "1.10"
+						},
+						{
+							"value": "Away +1.75",
+							"odd": "7.00"
+						}
+					]
+				},
+				{
+					"id": 20,
+					"name": "Double Chance - First Half",
+					"values": [
+						{
+							"value": "Home/Draw",
+							"odd": "1.73"
+						},
+						{
+							"value": "Home/Away",
+							"odd": "1.53"
+						},
+						{
+							"value": "Draw/Away",
+							"odd": "1.10"
+						}
+					]
+				},
+				{
+					"id": 34,
+					"name": "Both Teams Score - First Half",
+					"values": [
+						{
+							"value": "Yes",
+							"odd": "5.00"
+						},
+						{
+							"value": "No",
+							"odd": "1.17"
+						}
+					]
+				},
+				{
+					"id": 35,
+					"name": "Both Teams To Score - Second Half",
+					"values": [
+						{
+							"value": "Yes",
+							"odd": "3.75"
+						},
+						{
+							"value": "No",
+							"odd": "1.25"
+						}
+					]
+				},
+				{
+					"id": 36,
+					"name": "Win To Nil",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "11.00"
+						},
+						{
+							"value": "Away",
+							"odd": "2.38"
+						}
+					]
+				},
+				{
+					"id": 21,
+					"name": "Odd/Even",
+					"values": [
+						{
+							"value": "Odd",
+							"odd": "1.95"
+						},
+						{
+							"value": "Even",
+							"odd": "1.90"
+						}
+					]
+				},
+				{
+					"id": 22,
+					"name": "Odd/Even - First Half",
+					"values": [
+						{
+							"value": "Odd",
+							"odd": "2.10"
+						},
+						{
+							"value": "Even",
+							"odd": "1.73"
+						}
+					]
+				},
+				{
+					"id": 38,
+					"name": "Exact Goals Number",
+					"values": [
+						{
+							"value": 2,
+							"odd": "3.75"
+						},
+						{
+							"value": 3,
+							"odd": "4.00"
+						},
+						{
+							"value": 4,
+							"odd": "5.50"
+						},
+						{
+							"value": 1,
+							"odd": "5.50"
+						},
+						{
+							"value": 0,
+							"odd": "11.00"
+						},
+						{
+							"value": 5,
+							"odd": "9.50"
+						},
+						{
+							"value": 6,
+							"odd": "19.00"
+						},
+						{
+							"value": "more 7",
+							"odd": "23.00"
+						}
+					]
+				},
+				{
+					"id": 39,
+					"name": "To Win Either Half",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "3.40"
+						},
+						{
+							"value": "Away",
+							"odd": "1.29"
+						}
+					]
+				},
+				{
+					"id": 40,
+					"name": "Home Team Exact Goals Number",
+					"values": [
+						{
+							"value": 2,
+							"odd": "6.00"
+						},
+						{
+							"value": 1,
+							"odd": "2.50"
+						},
+						{
+							"value": 0,
+							"odd": "2.10"
+						},
+						{
+							"value": "more 3",
+							"odd": "15.00"
+						}
+					]
+				},
+				{
+					"id": 41,
+					"name": "Away Team Exact Goals Number",
+					"values": [
+						{
+							"value": 2,
+							"odd": "3.25"
+						},
+						{
+							"value": 1,
+							"odd": "3.25"
+						},
+						{
+							"value": 0,
+							"odd": "6.50"
+						},
+						{
+							"value": "more 3",
+							"odd": "2.75"
+						}
+					]
+				},
+				{
+					"id": 42,
+					"name": "Second Half Exact Goals Number",
+					"values": [
+						{
+							"value": 2,
+							"odd": "3.50"
+						},
+						{
+							"value": 3,
+							"odd": "6.50"
+						},
+						{
+							"value": 4,
+							"odd": "15.00"
+						},
+						{
+							"value": 1,
+							"odd": "2.88"
+						},
+						{
+							"value": 0,
+							"odd": "4.33"
+						},
+						{
+							"value": "more 5",
+							"odd": "26.00"
+						}
+					]
+				},
+				{
+					"id": 24,
+					"name": "Results/Both Teams Score",
+					"values": [
+						{
+							"value": "Home/Yes",
+							"odd": "12.00"
+						},
+						{
+							"value": "Draw/Yes",
+							"odd": "5.50"
+						},
+						{
+							"value": "Away/Yes",
+							"odd": "3.40"
+						},
+						{
+							"value": "Home/No",
+							"odd": "11.00"
+						},
+						{
+							"value": "Draw/No",
+							"odd": "11.00"
+						},
+						{
+							"value": "Away/No",
+							"odd": "2.38"
+						}
+					]
+				},
+				{
+					"id": 25,
+					"name": "Result/Total Goals",
+					"values": [
+						{
+							"value": "Home/Over 2.5",
+							"odd": "11.00"
+						},
+						{
+							"value": "Draw/Over 2.5",
+							"odd": "15.00"
+						},
+						{
+							"value": "Away/Over 2.5",
+							"odd": "2.25"
+						},
+						{
+							"value": "Home/Under 2.5",
+							"odd": "12.00"
+						},
+						{
+							"value": "Draw/Under 2.5",
+							"odd": "5.00"
+						},
+						{
+							"value": "Away/Under 2.5",
+							"odd": "3.75"
+						}
+					]
+				},
+				{
+					"id": 43,
+					"name": "Home Team Score a Goal",
+					"values": [
+						{
+							"value": "Yes",
+							"odd": "1.67"
+						},
+						{
+							"value": "No",
+							"odd": "2.10"
+						}
+					]
+				},
+				{
+					"id": 44,
+					"name": "Away Team Score a Goal",
+					"values": [
+						{
+							"value": "Yes",
+							"odd": "1.11"
+						},
+						{
+							"value": "No",
+							"odd": "6.50"
+						}
+					]
+				},
+				{
+					"id": 54,
+					"name": "First 10 min Winner",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "12.00"
+						},
+						{
+							"value": "Draw",
+							"odd": "1.17"
+						},
+						{
+							"value": "Away",
+							"odd": "5.50"
+						}
+					]
+				},
+				{
+					"id": 55,
+					"name": "Corners 1x2",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "3.25"
+						},
+						{
+							"value": "Draw",
+							"odd": "9.00"
+						},
+						{
+							"value": "Away",
+							"odd": "1.44"
+						}
+					]
+				},
+				{
+					"id": 45,
+					"name": "Corners Over Under",
+					"values": [
+						{
+							"value": "Over 9.5",
+							"odd": "1.83"
+						},
+						{
+							"value": "Under 9.5",
+							"odd": "1.83"
+						}
+					]
+				},
+				{
+					"id": 46,
+					"name": "Exact Goals Number - First Half",
+					"values": [
+						{
+							"value": 2,
+							"odd": "4.00"
+						},
+						{
+							"value": 3,
+							"odd": "9.00"
+						},
+						{
+							"value": 4,
+							"odd": "26.00"
+						},
+						{
+							"value": 1,
+							"odd": "2.60"
+						},
+						{
+							"value": 0,
+							"odd": "3.00"
+						},
+						{
+							"value": "more 5",
+							"odd": "51.00"
+						}
+					]
+				},
+				{
+					"id": 47,
+					"name": "Winning Margin",
+					"values": [
+						{
+							"value": "Draw",
+							"odd": "11.00"
+						},
+						{
+							"value": "1 by 1",
+							"odd": "8.50"
+						},
+						{
+							"value": "2 by 1",
+							"odd": "3.60"
+						},
+						{
+							"value": "1 by 2",
+							"odd": "21.00"
+						},
+						{
+							"value": "2 by 2",
+							"odd": "4.33"
+						},
+						{
+							"value": "1 by 3",
+							"odd": "67.00"
+						},
+						{
+							"value": "2 by 3",
+							"odd": "7.00"
+						},
+						{
+							"value": "1 by 4+",
+							"odd": "251.00"
+						},
+						{
+							"value": "2 by 4+",
+							"odd": "9.00"
+						},
+						{
+							"value": "Score Draw",
+							"odd": "5.50"
+						}
+					]
+				},
+				{
+					"id": 48,
+					"name": "To Score In Both Halves By Teams",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "8.00"
+						},
+						{
+							"value": "Away",
+							"odd": "2.38"
+						}
+					]
+				},
+				{
+					"id": 49,
+					"name": "Total Goals/Both Teams To Score",
+					"values": [
+						{
+							"value": "o/yes 2.5",
+							"odd": "2.40"
+						},
+						{
+							"value": "o/no 2.5",
+							"odd": "5.50"
+						},
+						{
+							"value": "u/yes 2.5",
+							"odd": "8.00"
+						},
+						{
+							"value": "u/no 2.5",
+							"odd": "2.40"
+						}
+					]
+				},
+				{
+					"id": 91,
+					"name": "Total Goals (3 way)",
+					"values": [
+						{
+							"value": "Under 2 ",
+							"odd": "4.00"
+						},
+						{
+							"value": "2 Or 3 ",
+							"odd": "2.00"
+						},
+						{
+							"value": "Over 3 ",
+							"odd": "3.00"
+						}
+					]
+				},
+				{
+					"id": 50,
+					"name": "Goal Line",
+					"values": [
+						{
+							"value": "Over 3.5",
+							"odd": "3.00"
+						},
+						{
+							"value": "Under 3.5",
+							"odd": "1.38"
+						},
+						{
+							"value": "Over 1.5",
+							"odd": "1.25"
+						},
+						{
+							"value": "Under 1.5",
+							"odd": "3.80"
+						},
+						{
+							"value": "Over 4.5",
+							"odd": "5.75"
+						},
+						{
+							"value": "Under 4.5",
+							"odd": "1.14"
+						},
+						{
+							"value": "Over 2.5",
+							"odd": "1.85"
+						},
+						{
+							"value": "Under 2.5",
+							"odd": "2.05"
+						},
+						{
+							"value": "Over 2",
+							"odd": "1.38"
+						},
+						{
+							"value": "Under 2",
+							"odd": "3.00"
+						},
+						{
+							"value": "Over 3",
+							"odd": "2.38"
+						},
+						{
+							"value": "Under 3",
+							"odd": "1.55"
+						},
+						{
+							"value": "Over 4",
+							"odd": "4.80"
+						},
+						{
+							"value": "Under 4",
+							"odd": "1.18"
+						},
+						{
+							"value": "Over 2.25",
+							"odd": "1.60"
+						},
+						{
+							"value": "Under 2.25",
+							"odd": "2.30"
+						},
+						{
+							"value": "Over 3.25",
+							"odd": "2.67"
+						},
+						{
+							"value": "Under 3.25",
+							"odd": "1.45"
+						},
+						{
+							"value": "Over 2.75",
+							"odd": "2.02"
+						},
+						{
+							"value": "Under 2.75",
+							"odd": "1.77"
+						},
+						{
+							"value": "Over 1.25",
+							"odd": "1.15"
+						},
+						{
+							"value": "Under 1.25",
+							"odd": "5.50"
+						},
+						{
+							"value": "Over 4.25",
+							"odd": "5.50"
+						},
+						{
+							"value": "Under 4.25",
+							"odd": "1.15"
+						},
+						{
+							"value": "Over 1.75",
+							"odd": "1.30"
+						},
+						{
+							"value": "Under 1.75",
+							"odd": "3.45"
+						},
+						{
+							"value": "Over 3.75",
+							"odd": "3.55"
+						},
+						{
+							"value": "Under 3.75",
+							"odd": "1.27"
+						},
+						{
+							"value": "Over 4.75",
+							"odd": "6.80"
+						},
+						{
+							"value": "Under 4.75",
+							"odd": "1.10"
+						}
+					]
+				},
+				{
+					"id": 72,
+					"name": "Goal Line (1st Half)",
+					"values": [
+						{
+							"value": "Over 1.5",
+							"odd": "2.67"
+						},
+						{
+							"value": "Under 1.5",
+							"odd": "1.45"
+						},
+						{
+							"value": "Over 2.5",
+							"odd": "6.80"
+						},
+						{
+							"value": "Under 2.5",
+							"odd": "1.10"
+						},
+						{
+							"value": "Over 0.5",
+							"odd": "1.38"
+						},
+						{
+							"value": "Under 0.5",
+							"odd": "3.00"
+						},
+						{
+							"value": "Over 2",
+							"odd": "5.50"
+						},
+						{
+							"value": "Under 2",
+							"odd": "1.15"
+						},
+						{
+							"value": "Over 2.25",
+							"odd": "6.00"
+						},
+						{
+							"value": "Under 2.25",
+							"odd": "1.13"
+						},
+						{
+							"value": "Over 1.25",
+							"odd": "2.25"
+						},
+						{
+							"value": "Under 1.25",
+							"odd": "1.63"
+						},
+						{
+							"value": "Over 1.75",
+							"odd": "3.45"
+						},
+						{
+							"value": "Under 1.75",
+							"odd": "1.30"
+						},
+						{
+							"value": "Over 1",
+							"odd": "1.80"
+						},
+						{
+							"value": "Under 1",
+							"odd": "2.05"
+						},
+						{
+							"value": "Over 0.75",
+							"odd": "1.50"
+						},
+						{
+							"value": "Under 0.75",
+							"odd": "2.50"
+						}
+					]
+				},
+				{
+					"id": 97,
+					"name": "First Goal Method",
+					"values": [
+						{
+							"value": "Shot",
+							"odd": "1.50"
+						},
+						{
+							"value": "Header",
+							"odd": "6.50"
+						},
+						{
+							"value": "Penalty",
+							"odd": "7.50"
+						},
+						{
+							"value": "FreeKick",
+							"odd": "21.00"
+						},
+						{
+							"value": "OwnGoal",
+							"odd": "29.00"
+						},
+						{
+							"value": "Draw",
+							"odd": "11.00"
+						}
+					]
+				},
+				{
+					"id": 52,
+					"name": "Halftime Result/Both Teams Score",
+					"values": [
+						{
+							"value": "Home/Yes",
+							"odd": "34.00"
+						},
+						{
+							"value": "Draw/Yes",
+							"odd": "8.50"
+						},
+						{
+							"value": "Away/Yes",
+							"odd": "13.00"
+						},
+						{
+							"value": "Home/No",
+							"odd": "6.50"
+						},
+						{
+							"value": "Draw/No",
+							"odd": "3.00"
+						},
+						{
+							"value": "Away/No",
+							"odd": "2.25"
+						}
+					]
+				},
+				{
+					"id": 56,
+					"name": "Corners Asian Handicap",
+					"values": [
+						{
+							"value": "Home +2",
+							"odd": "1.93"
+						},
+						{
+							"value": "Away +2",
+							"odd": "1.88"
+						}
+					]
+				},
+				{
+					"id": 57,
+					"name": "Home Corners Over/Under",
+					"values": [
+						{
+							"value": "Over 3.5",
+							"odd": "1.83"
+						},
+						{
+							"value": "Under 3.5",
+							"odd": "1.83"
+						}
+					]
+				},
+				{
+					"id": 58,
+					"name": "Away Corners Over/Under",
+					"values": [
+						{
+							"value": "Over 5.5",
+							"odd": "1.80"
+						},
+						{
+							"value": "Under 5.5",
+							"odd": "1.91"
+						}
+					]
+				},
+				{
+					"id": 59,
+					"name": "Own Goal",
+					"values": [
+						{
+							"value": "Yes",
+							"odd": "11.00"
+						},
+						{
+							"value": "No",
+							"odd": "1.05"
+						}
+					]
+				},
+				{
+					"id": 92,
+					"name": "Anytime Goal Scorer",
+					"values": [
+						{
+							"value": "Romelu Lukaku",
+							"odd": "2.63"
+						},
+						{
+							"value": "Alex Ferrari",
+							"odd": "29.00"
+						},
+						{
+							"value": "Robin Gosens",
+							"odd": "4.75"
+						},
+						{
+							"value": "David Okereke",
+							"odd": "5.00"
+						},
+						{
+							"value": "Kristjan Asllani",
+							"odd": "5.00"
+						},
+						{
+							"value": "Marcelo Brozovic",
+							"odd": "7.50"
+						},
+						{
+							"value": "Matteo Darmian",
+							"odd": "12.00"
+						},
+						{
+							"value": "Hakan Calhanoglu",
+							"odd": "3.75"
+						},
+						{
+							"value": "Edin Dzeko",
+							"odd": "2.88"
+						},
+						{
+							"value": "Federico Dimarco",
+							"odd": "7.50"
+						},
+						{
+							"value": "Roberto Gagliardini",
+							"odd": "6.50"
+						},
+						{
+							"value": "Danilo D'Ambrosio",
+							"odd": "9.50"
+						},
+						{
+							"value": "Milan Skriniar",
+							"odd": "12.00"
+						},
+						{
+							"value": "Stefan de Vrij",
+							"odd": "12.00"
+						},
+						{
+							"value": "Denzel Dumfries",
+							"odd": "6.50"
+						},
+						{
+							"value": "Alessandro Bastoni",
+							"odd": "17.00"
+						},
+						{
+							"value": "Nicolo Barella",
+							"odd": "5.50"
+						},
+						{
+							"value": "Joaquin Correa",
+							"odd": "3.75"
+						},
+						{
+							"value": "Lautaro Martinez",
+							"odd": "2.88"
+						},
+						{
+							"value": "Francesco Acerbi",
+							"odd": "15.00"
+						},
+						{
+							"value": "Gonzalo Escalante",
+							"odd": "12.00"
+						},
+						{
+							"value": "Marco Benassi",
+							"odd": "8.00"
+						},
+						{
+							"value": "Raoul Bellanova",
+							"odd": "12.00"
+						},
+						{
+							"value": "Henrikh Mkhitaryan",
+							"odd": "3.60"
+						},
+						{
+							"value": "Felix Afena-Gyan",
+							"odd": "5.50"
+						},
+						{
+							"value": "Vlad Chiriches",
+							"odd": "21.00"
+						},
+						{
+							"value": "Paolo Ghiglione",
+							"odd": "9.00"
+						},
+						{
+							"value": "Johan Vasquez",
+							"odd": "17.00"
+						},
+						{
+							"value": "Luka Lochoshvili",
+							"odd": "21.00"
+						},
+						{
+							"value": "Emanuel Aiwu",
+							"odd": "17.00"
+						},
+						{
+							"value": "Cyriel Dessers",
+							"odd": "4.75"
+						},
+						{
+							"value": "Giacomo Quagliata",
+							"odd": "41.00"
+						},
+						{
+							"value": "Jack Hendry",
+							"odd": "29.00"
+						},
+						{
+							"value": "Soualiho Meite",
+							"odd": "17.00"
+						},
+						{
+							"value": "Charles Pickel",
+							"odd": "13.00"
+						},
+						{
+							"value": "Tommaso Milanese",
+							"odd": "17.00"
+						},
+						{
+							"value": "Frank Tsadjout",
+							"odd": "6.50"
+						},
+						{
+							"value": "Leonardo Sernicola",
+							"odd": "15.00"
+						},
+						{
+							"value": "Daniel Ciofani",
+							"odd": "4.75"
+						},
+						{
+							"value": "Michele Castagnetti",
+							"odd": "21.00"
+						},
+						{
+							"value": "Matteo Bianchetti",
+							"odd": "29.00"
+						},
+						{
+							"value": "Cristian Buonaiuto",
+							"odd": "5.50"
+						},
+						{
+							"value": "Luca Zanimacchia",
+							"odd": "7.50"
+						},
+						{
+							"value": "Emanuele Valeri",
+							"odd": "15.00"
+						},
+						{
+							"value": "Mattia Zanotti",
+							"odd": "17.00"
+						},
+						{
+							"value": "Dennis Curatolo",
+							"odd": "3.25"
+						},
+						{
+							"value": "Valentin Carboni",
+							"odd": "4.33"
+						},
+						{
+							"value": "Alessandro Fontanarosa",
+							"odd": "9.50"
+						},
+						{
+							"value": "Christian  Acella",
+							"odd": "11.00"
+						},
+						{
+							"value": "Aleksandar Stankovic",
+							"odd": "8.00"
+						},
+						{
+							"value": "Marco Carnesecchi",
+							"odd": "51.00"
+						}
+					]
+				},
+				{
+					"id": 93,
+					"name": "First Goal Scorer",
+					"values": [
+						{
+							"value": "No Goalscorer",
+							"odd": "11.00"
+						},
+						{
+							"value": "Romelu Lukaku",
+							"odd": "5.50"
+						},
+						{
+							"value": "Alex Ferrari",
+							"odd": "81.00"
+						},
+						{
+							"value": "Robin Gosens",
+							"odd": "11.00"
+						},
+						{
+							"value": "David Okereke",
+							"odd": "12.00"
+						},
+						{
+							"value": "Kristjan Asllani",
+							"odd": "12.00"
+						},
+						{
+							"value": "Marcelo Brozovic",
+							"odd": "17.00"
+						},
+						{
+							"value": "Matteo Darmian",
+							"odd": "29.00"
+						},
+						{
+							"value": "Hakan Calhanoglu",
+							"odd": "8.50"
+						},
+						{
+							"value": "Edin Dzeko",
+							"odd": "6.00"
+						},
+						{
+							"value": "Federico Dimarco",
+							"odd": "17.00"
+						},
+						{
+							"value": "Roberto Gagliardini",
+							"odd": "15.00"
+						},
+						{
+							"value": "Danilo D'Ambrosio",
+							"odd": "23.00"
+						},
+						{
+							"value": "Milan Skriniar",
+							"odd": "29.00"
+						},
+						{
+							"value": "Stefan de Vrij",
+							"odd": "29.00"
+						},
+						{
+							"value": "Denzel Dumfries",
+							"odd": "15.00"
+						},
+						{
+							"value": "Alessandro Bastoni",
+							"odd": "41.00"
+						},
+						{
+							"value": "Nicolo Barella",
+							"odd": "13.00"
+						},
+						{
+							"value": "Joaquin Correa",
+							"odd": "8.50"
+						},
+						{
+							"value": "Lautaro Martinez",
+							"odd": "6.00"
+						},
+						{
+							"value": "Francesco Acerbi",
+							"odd": "34.00"
+						},
+						{
+							"value": "Gonzalo Escalante",
+							"odd": "29.00"
+						},
+						{
+							"value": "Marco Benassi",
+							"odd": "19.00"
+						},
+						{
+							"value": "Raoul Bellanova",
+							"odd": "29.00"
+						},
+						{
+							"value": "Henrikh Mkhitaryan",
+							"odd": "8.00"
+						},
+						{
+							"value": "Felix Afena-Gyan",
+							"odd": "13.00"
+						},
+						{
+							"value": "Vlad Chiriches",
+							"odd": "51.00"
+						},
+						{
+							"value": "Paolo Ghiglione",
+							"odd": "21.00"
+						},
+						{
+							"value": "Johan Vasquez",
+							"odd": "41.00"
+						},
+						{
+							"value": "Luka Lochoshvili",
+							"odd": "51.00"
+						},
+						{
+							"value": "Emanuel Aiwu",
+							"odd": "41.00"
+						},
+						{
+							"value": "Cyriel Dessers",
+							"odd": "11.00"
+						},
+						{
+							"value": "Giacomo Quagliata",
+							"odd": "101.00"
+						},
+						{
+							"value": "Jack Hendry",
+							"odd": "81.00"
+						},
+						{
+							"value": "Soualiho Meite",
+							"odd": "41.00"
+						},
+						{
+							"value": "Charles Pickel",
+							"odd": "34.00"
+						},
+						{
+							"value": "Tommaso Milanese",
+							"odd": "41.00"
+						},
+						{
+							"value": "Frank Tsadjout",
+							"odd": "15.00"
+						},
+						{
+							"value": "Leonardo Sernicola",
+							"odd": "34.00"
+						},
+						{
+							"value": "Daniel Ciofani",
+							"odd": "11.00"
+						},
+						{
+							"value": "Michele Castagnetti",
+							"odd": "51.00"
+						},
+						{
+							"value": "Matteo Bianchetti",
+							"odd": "81.00"
+						},
+						{
+							"value": "Cristian Buonaiuto",
+							"odd": "13.00"
+						},
+						{
+							"value": "Luca Zanimacchia",
+							"odd": "17.00"
+						},
+						{
+							"value": "Emanuele Valeri",
+							"odd": "34.00"
+						},
+						{
+							"value": "Mattia Zanotti",
+							"odd": "41.00"
+						},
+						{
+							"value": "Dennis Curatolo",
+							"odd": "7.50"
+						},
+						{
+							"value": "Valentin Carboni",
+							"odd": "9.50"
+						},
+						{
+							"value": "Alessandro Fontanarosa",
+							"odd": "23.00"
+						},
+						{
+							"value": "Christian  Acella",
+							"odd": "26.00"
+						},
+						{
+							"value": "Aleksandar Stankovic",
+							"odd": "19.00"
+						},
+						{
+							"value": "Marco Carnesecchi",
+							"odd": "151.00"
+						}
+					]
+				},
+				{
+					"id": 94,
+					"name": "Last Goal Scorer",
+					"values": [
+						{
+							"value": "No Goalscorer",
+							"odd": "11.00"
+						},
+						{
+							"value": "Romelu Lukaku",
+							"odd": "5.50"
+						},
+						{
+							"value": "Alex Ferrari",
+							"odd": "81.00"
+						},
+						{
+							"value": "Robin Gosens",
+							"odd": "11.00"
+						},
+						{
+							"value": "David Okereke",
+							"odd": "12.00"
+						},
+						{
+							"value": "Kristjan Asllani",
+							"odd": "12.00"
+						},
+						{
+							"value": "Marcelo Brozovic",
+							"odd": "17.00"
+						},
+						{
+							"value": "Matteo Darmian",
+							"odd": "29.00"
+						},
+						{
+							"value": "Hakan Calhanoglu",
+							"odd": "8.50"
+						},
+						{
+							"value": "Edin Dzeko",
+							"odd": "6.00"
+						},
+						{
+							"value": "Federico Dimarco",
+							"odd": "17.00"
+						},
+						{
+							"value": "Roberto Gagliardini",
+							"odd": "15.00"
+						},
+						{
+							"value": "Danilo D'Ambrosio",
+							"odd": "23.00"
+						},
+						{
+							"value": "Milan Skriniar",
+							"odd": "29.00"
+						},
+						{
+							"value": "Stefan de Vrij",
+							"odd": "29.00"
+						},
+						{
+							"value": "Denzel Dumfries",
+							"odd": "15.00"
+						},
+						{
+							"value": "Alessandro Bastoni",
+							"odd": "41.00"
+						},
+						{
+							"value": "Nicolo Barella",
+							"odd": "13.00"
+						},
+						{
+							"value": "Joaquin Correa",
+							"odd": "8.50"
+						},
+						{
+							"value": "Lautaro Martinez",
+							"odd": "6.00"
+						},
+						{
+							"value": "Francesco Acerbi",
+							"odd": "34.00"
+						},
+						{
+							"value": "Gonzalo Escalante",
+							"odd": "29.00"
+						},
+						{
+							"value": "Marco Benassi",
+							"odd": "19.00"
+						},
+						{
+							"value": "Raoul Bellanova",
+							"odd": "29.00"
+						},
+						{
+							"value": "Henrikh Mkhitaryan",
+							"odd": "8.00"
+						},
+						{
+							"value": "Felix Afena-Gyan",
+							"odd": "13.00"
+						},
+						{
+							"value": "Vlad Chiriches",
+							"odd": "51.00"
+						},
+						{
+							"value": "Paolo Ghiglione",
+							"odd": "21.00"
+						},
+						{
+							"value": "Johan Vasquez",
+							"odd": "41.00"
+						},
+						{
+							"value": "Luka Lochoshvili",
+							"odd": "51.00"
+						},
+						{
+							"value": "Emanuel Aiwu",
+							"odd": "41.00"
+						},
+						{
+							"value": "Cyriel Dessers",
+							"odd": "11.00"
+						},
+						{
+							"value": "Giacomo Quagliata",
+							"odd": "101.00"
+						},
+						{
+							"value": "Jack Hendry",
+							"odd": "81.00"
+						},
+						{
+							"value": "Soualiho Meite",
+							"odd": "41.00"
+						},
+						{
+							"value": "Charles Pickel",
+							"odd": "34.00"
+						},
+						{
+							"value": "Tommaso Milanese",
+							"odd": "41.00"
+						},
+						{
+							"value": "Frank Tsadjout",
+							"odd": "15.00"
+						},
+						{
+							"value": "Leonardo Sernicola",
+							"odd": "34.00"
+						},
+						{
+							"value": "Daniel Ciofani",
+							"odd": "11.00"
+						},
+						{
+							"value": "Michele Castagnetti",
+							"odd": "51.00"
+						},
+						{
+							"value": "Matteo Bianchetti",
+							"odd": "81.00"
+						},
+						{
+							"value": "Cristian Buonaiuto",
+							"odd": "13.00"
+						},
+						{
+							"value": "Luca Zanimacchia",
+							"odd": "17.00"
+						},
+						{
+							"value": "Emanuele Valeri",
+							"odd": "34.00"
+						},
+						{
+							"value": "Mattia Zanotti",
+							"odd": "41.00"
+						},
+						{
+							"value": "Dennis Curatolo",
+							"odd": "7.50"
+						},
+						{
+							"value": "Valentin Carboni",
+							"odd": "9.50"
+						},
+						{
+							"value": "Alessandro Fontanarosa",
+							"odd": "23.00"
+						},
+						{
+							"value": "Christian  Acella",
+							"odd": "26.00"
+						},
+						{
+							"value": "Aleksandar Stankovic",
+							"odd": "19.00"
+						},
+						{
+							"value": "Marco Carnesecchi",
+							"odd": "151.00"
+						}
+					]
+				},
+				{
+					"id": 95,
+					"name": "To Score Two or More Goals",
+					"values": [
+						{
+							"value": "Romelu Lukaku",
+							"odd": "10.00"
+						},
+						{
+							"value": "Alex Ferrari",
+							"odd": "351.00"
+						},
+						{
+							"value": "Robin Gosens",
+							"odd": "34.00"
+						},
+						{
+							"value": "David Okereke",
+							"odd": "41.00"
+						},
+						{
+							"value": "Kristjan Asllani",
+							"odd": "41.00"
+						},
+						{
+							"value": "Marcelo Brozovic",
+							"odd": "81.00"
+						},
+						{
+							"value": "Matteo Darmian",
+							"odd": "126.00"
+						},
+						{
+							"value": "Hakan Calhanoglu",
+							"odd": "21.00"
+						},
+						{
+							"value": "Edin Dzeko",
+							"odd": "12.00"
+						},
+						{
+							"value": "Federico Dimarco",
+							"odd": "81.00"
+						},
+						{
+							"value": "Roberto Gagliardini",
+							"odd": "51.00"
+						},
+						{
+							"value": "Danilo D'Ambrosio",
+							"odd": "101.00"
+						},
+						{
+							"value": "Milan Skriniar",
+							"odd": "101.00"
+						},
+						{
+							"value": "Stefan de Vrij",
+							"odd": "126.00"
+						},
+						{
+							"value": "Denzel Dumfries",
+							"odd": "51.00"
+						},
+						{
+							"value": "Alessandro Bastoni",
+							"odd": "151.00"
+						},
+						{
+							"value": "Nicolo Barella",
+							"odd": "41.00"
+						},
+						{
+							"value": "Joaquin Correa",
+							"odd": "21.00"
+						},
+						{
+							"value": "Lautaro Martinez",
+							"odd": "12.00"
+						},
+						{
+							"value": "Francesco Acerbi",
+							"odd": "126.00"
+						},
+						{
+							"value": "Gonzalo Escalante",
+							"odd": "101.00"
+						},
+						{
+							"value": "Marco Benassi",
+							"odd": "101.00"
+						},
+						{
+							"value": "Raoul Bellanova",
+							"odd": "126.00"
+						},
+						{
+							"value": "Henrikh Mkhitaryan",
+							"odd": "19.00"
+						},
+						{
+							"value": "Felix Afena-Gyan",
+							"odd": "41.00"
+						},
+						{
+							"value": "Vlad Chiriches",
+							"odd": "151.00"
+						},
+						{
+							"value": "Paolo Ghiglione",
+							"odd": "101.00"
+						},
+						{
+							"value": "Johan Vasquez",
+							"odd": "151.00"
+						},
+						{
+							"value": "Luka Lochoshvili",
+							"odd": "151.00"
+						},
+						{
+							"value": "Emanuel Aiwu",
+							"odd": "151.00"
+						},
+						{
+							"value": "Cyriel Dessers",
+							"odd": "34.00"
+						},
+						{
+							"value": "Giacomo Quagliata",
+							"odd": "501.00"
+						},
+						{
+							"value": "Jack Hendry",
+							"odd": "351.00"
+						},
+						{
+							"value": "Soualiho Meite",
+							"odd": "151.00"
+						},
+						{
+							"value": "Charles Pickel",
+							"odd": "126.00"
+						},
+						{
+							"value": "Tommaso Milanese",
+							"odd": "151.00"
+						},
+						{
+							"value": "Frank Tsadjout",
+							"odd": "51.00"
+						},
+						{
+							"value": "Leonardo Sernicola",
+							"odd": "126.00"
+						},
+						{
+							"value": "Daniel Ciofani",
+							"odd": "34.00"
+						},
+						{
+							"value": "Michele Castagnetti",
+							"odd": "151.00"
+						},
+						{
+							"value": "Matteo Bianchetti",
+							"odd": "351.00"
+						},
+						{
+							"value": "Cristian Buonaiuto",
+							"odd": "41.00"
+						},
+						{
+							"value": "Luca Zanimacchia",
+							"odd": "81.00"
+						},
+						{
+							"value": "Emanuele Valeri",
+							"odd": "126.00"
+						},
+						{
+							"value": "Mattia Zanotti",
+							"odd": "151.00"
+						},
+						{
+							"value": "Dennis Curatolo",
+							"odd": "17.00"
+						},
+						{
+							"value": "Valentin Carboni",
+							"odd": "26.00"
+						},
+						{
+							"value": "Alessandro Fontanarosa",
+							"odd": "101.00"
+						},
+						{
+							"value": "Christian  Acella",
+							"odd": "101.00"
+						},
+						{
+							"value": "Aleksandar Stankovic",
+							"odd": "101.00"
+						},
+						{
+							"value": "Marco Carnesecchi",
+							"odd": "501.00"
+						}
+					]
+				},
+				{
+					"id": 96,
+					"name": "Last Goal Scorer",
+					"values": [
+						{
+							"value": "Romelu Lukaku",
+							"odd": "41.00"
+						},
+						{
+							"value": "Alex Ferrari",
+							"odd": "501.00"
+						},
+						{
+							"value": "Robin Gosens",
+							"odd": "126.00"
+						},
+						{
+							"value": "David Okereke",
+							"odd": "126.00"
+						},
+						{
+							"value": "Kristjan Asllani",
+							"odd": "126.00"
+						},
+						{
+							"value": "Marcelo Brozovic",
+							"odd": "251.00"
+						},
+						{
+							"value": "Matteo Darmian",
+							"odd": "501.00"
+						},
+						{
+							"value": "Hakan Calhanoglu",
+							"odd": "101.00"
+						},
+						{
+							"value": "Edin Dzeko",
+							"odd": "51.00"
+						},
+						{
+							"value": "Federico Dimarco",
+							"odd": "251.00"
+						},
+						{
+							"value": "Roberto Gagliardini",
+							"odd": "201.00"
+						},
+						{
+							"value": "Danilo D'Ambrosio",
+							"odd": "501.00"
+						},
+						{
+							"value": "Milan Skriniar",
+							"odd": "501.00"
+						},
+						{
+							"value": "Stefan de Vrij",
+							"odd": "501.00"
+						},
+						{
+							"value": "Denzel Dumfries",
+							"odd": "201.00"
+						},
+						{
+							"value": "Alessandro Bastoni",
+							"odd": "501.00"
+						},
+						{
+							"value": "Nicolo Barella",
+							"odd": "151.00"
+						},
+						{
+							"value": "Joaquin Correa",
+							"odd": "101.00"
+						},
+						{
+							"value": "Lautaro Martinez",
+							"odd": "51.00"
+						},
+						{
+							"value": "Francesco Acerbi",
+							"odd": "501.00"
+						},
+						{
+							"value": "Gonzalo Escalante",
+							"odd": "501.00"
+						},
+						{
+							"value": "Marco Benassi",
+							"odd": "301.00"
+						},
+						{
+							"value": "Raoul Bellanova",
+							"odd": "501.00"
+						},
+						{
+							"value": "Henrikh Mkhitaryan",
+							"odd": "101.00"
+						},
+						{
+							"value": "Felix Afena-Gyan",
+							"odd": "151.00"
+						},
+						{
+							"value": "Vlad Chiriches",
+							"odd": "501.00"
+						},
+						{
+							"value": "Paolo Ghiglione",
+							"odd": "401.00"
+						},
+						{
+							"value": "Johan Vasquez",
+							"odd": "501.00"
+						},
+						{
+							"value": "Luka Lochoshvili",
+							"odd": "501.00"
+						},
+						{
+							"value": "Emanuel Aiwu",
+							"odd": "501.00"
+						},
+						{
+							"value": "Cyriel Dessers",
+							"odd": "126.00"
+						},
+						{
+							"value": "Giacomo Quagliata",
+							"odd": "501.00"
+						},
+						{
+							"value": "Jack Hendry",
+							"odd": "501.00"
+						},
+						{
+							"value": "Soualiho Meite",
+							"odd": "501.00"
+						},
+						{
+							"value": "Charles Pickel",
+							"odd": "501.00"
+						},
+						{
+							"value": "Tommaso Milanese",
+							"odd": "501.00"
+						},
+						{
+							"value": "Frank Tsadjout",
+							"odd": "201.00"
+						},
+						{
+							"value": "Leonardo Sernicola",
+							"odd": "501.00"
+						},
+						{
+							"value": "Daniel Ciofani",
+							"odd": "126.00"
+						},
+						{
+							"value": "Michele Castagnetti",
+							"odd": "501.00"
+						},
+						{
+							"value": "Matteo Bianchetti",
+							"odd": "501.00"
+						},
+						{
+							"value": "Cristian Buonaiuto",
+							"odd": "151.00"
+						},
+						{
+							"value": "Luca Zanimacchia",
+							"odd": "251.00"
+						},
+						{
+							"value": "Emanuele Valeri",
+							"odd": "501.00"
+						},
+						{
+							"value": "Mattia Zanotti",
+							"odd": "501.00"
+						},
+						{
+							"value": "Dennis Curatolo",
+							"odd": "81.00"
+						},
+						{
+							"value": "Valentin Carboni",
+							"odd": "101.00"
+						},
+						{
+							"value": "Alessandro Fontanarosa",
+							"odd": "501.00"
+						},
+						{
+							"value": "Christian  Acella",
+							"odd": "501.00"
+						},
+						{
+							"value": "Aleksandar Stankovic",
+							"odd": "301.00"
+						},
+						{
+							"value": "Marco Carnesecchi",
+							"odd": "501.00"
+						}
+					]
+				},
+				{
+					"id": 85,
+					"name": "Total Corners (3 way)",
+					"values": [
+						{
+							"value": "Over 10",
+							"odd": "2.38"
+						},
+						{
+							"value": "Under 10",
+							"odd": "1.83"
+						},
+						{
+							"value": "Exactly 10",
+							"odd": "8.00"
+						}
+					]
+				},
+				{
+					"id": 73,
+					"name": "Both Teams to Score 1st Half - 2nd Half",
+					"values": [
+						{
+							"value": "Yes/Yes",
+							"odd": "19.00"
+						},
+						{
+							"value": "Yes/No",
+							"odd": "6.00"
+						},
+						{
+							"value": "No/Yes",
+							"odd": "4.00"
+						},
+						{
+							"value": "No/No",
+							"odd": "1.50"
+						}
+					]
+				},
+				{
+					"id": 74,
+					"name": "10 Over/Under",
+					"values": [
+						{
+							"value": "Over 0.5",
+							"odd": "4.33"
+						},
+						{
+							"value": "Under 0.5",
+							"odd": "1.20"
+						}
+					]
+				},
+				{
+					"id": 75,
+					"name": "Last Corner",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "2.50"
+						},
+						{
+							"value": "Away",
+							"odd": "1.50"
+						}
+					]
+				},
+				{
+					"id": 76,
+					"name": "First Corner",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "2.50"
+						},
+						{
+							"value": "Away",
+							"odd": "1.50"
+						}
+					]
+				},
+				{
+					"id": 78,
+					"name": "RTG_H1",
+					"values": [
+						{
+							"value": "Home/Over 1.5",
+							"odd": "19.00"
+						},
+						{
+							"value": "Away/Over 1.5",
+							"odd": "4.33"
+						},
+						{
+							"value": "Draw/Over 1.5",
+							"odd": "8.50"
+						},
+						{
+							"value": "Draw/Under 1.5",
+							"odd": "3.00"
+						},
+						{
+							"value": "Home/Under 1.5",
+							"odd": "8.00"
+						},
+						{
+							"value": "Away/Under 1.5",
+							"odd": "3.40"
+						}
+					]
+				},
+				{
+					"id": 79,
+					"name": "Cards European Handicap",
+					"values": [
+						{
+							"value": "Home +0",
+							"odd": "1.73"
+						},
+						{
+							"value": "Away +0",
+							"odd": "3.40"
+						},
+						{
+							"value": "Draw +0",
+							"odd": "4.00"
+						},
+						{
+							"value": "Home -1",
+							"odd": "2.88"
+						},
+						{
+							"value": "Away -1",
+							"odd": "1.95"
+						},
+						{
+							"value": "Draw -1",
+							"odd": "4.00"
+						},
+						{
+							"value": "Home +1",
+							"odd": "1.29"
+						},
+						{
+							"value": "Away +1",
+							"odd": "6.50"
+						},
+						{
+							"value": "Draw +1",
+							"odd": "5.50"
+						},
+						{
+							"value": "Home -2",
+							"odd": "5.50"
+						},
+						{
+							"value": "Draw -2",
+							"odd": "5.00"
+						},
+						{
+							"value": "Away -2",
+							"odd": "1.36"
+						},
+						{
+							"value": "Home -3",
+							"odd": "10.00"
+						},
+						{
+							"value": "Draw -3",
+							"odd": "8.50"
+						},
+						{
+							"value": "Away -3",
+							"odd": "1.11"
+						}
+					]
+				},
+				{
+					"id": 80,
+					"name": "Cards Over/Under",
+					"values": [
+						{
+							"value": "Over 4.5",
+							"odd": "1.80"
+						},
+						{
+							"value": "Under 4.5",
+							"odd": "1.91"
+						}
+					]
+				},
+				{
+					"id": 81,
+					"name": "Cards Asian Handicap",
+					"values": [
+						{
+							"value": "Home -0.5",
+							"odd": "1.80"
+						},
+						{
+							"value": "Away -0.5",
+							"odd": "2.00"
+						}
+					]
+				},
+				{
+					"id": 82,
+					"name": "Home Team Total Cards",
+					"values": [
+						{
+							"value": "Over 2.5",
+							"odd": "1.80"
+						},
+						{
+							"value": "Under 2.5",
+							"odd": "1.91"
+						}
+					]
+				},
+				{
+					"id": 83,
+					"name": "Away Team Total Cards",
+					"values": [
+						{
+							"value": "Over 1.5",
+							"odd": "1.50"
+						},
+						{
+							"value": "Under 1.5",
+							"odd": "2.50"
+						}
+					]
+				},
+				{
+					"id": 99,
+					"name": "To Score A Penalty",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "10.00"
+						},
+						{
+							"value": "Away",
+							"odd": "4.33"
+						}
+					]
+				},
+				{
+					"id": 100,
+					"name": "To Miss A Penalty",
+					"values": [
+						{
+							"value": "Home",
+							"odd": "26.00"
+						},
+						{
+							"value": "Away",
+							"odd": "15.00"
+						}
+					]
+				},
+				{
+					"id": 102,
+					"name": "Player to be booked",
+					"values": [
+						{
+							"value": "Romelu Lukaku",
+							"odd": "7.50"
+						},
+						{
+							"value": "Alex Ferrari",
+							"odd": "3.50"
+						},
+						{
+							"value": "Robin Gosens",
+							"odd": "5.00"
+						},
+						{
+							"value": "David Okereke",
+							"odd": "4.33"
+						},
+						{
+							"value": "Kristjan Asllani",
+							"odd": "4.33"
+						},
+						{
+							"value": "Marcelo Brozovic",
+							"odd": "3.00"
+						},
+						{
+							"value": "Matteo Darmian",
+							"odd": "4.75"
+						},
+						{
+							"value": "Hakan Calhanoglu",
+							"odd": "3.25"
+						},
+						{
+							"value": "Edin Dzeko",
+							"odd": "6.00"
+						},
+						{
+							"value": "Federico Dimarco",
+							"odd": "5.00"
+						},
+						{
+							"value": "Roberto Gagliardini",
+							"odd": "4.33"
+						},
+						{
+							"value": "Danilo D'Ambrosio",
+							"odd": "4.75"
+						},
+						{
+							"value": "Milan Skriniar",
+							"odd": "7.50"
+						},
+						{
+							"value": "Stefan de Vrij",
+							"odd": "7.50"
+						},
+						{
+							"value": "Denzel Dumfries",
+							"odd": "4.75"
+						},
+						{
+							"value": "Alessandro Bastoni",
+							"odd": "5.00"
+						},
+						{
+							"value": "Nicolo Barella",
+							"odd": "3.50"
+						},
+						{
+							"value": "Joaquin Correa",
+							"odd": "5.00"
+						},
+						{
+							"value": "Lautaro Martinez",
+							"odd": "4.75"
+						},
+						{
+							"value": "Francesco Acerbi",
+							"odd": "6.00"
+						},
+						{
+							"value": "Gonzalo Escalante",
+							"odd": "2.20"
+						},
+						{
+							"value": "Marco Benassi",
+							"odd": "3.50"
+						},
+						{
+							"value": "Raoul Bellanova",
+							"odd": "6.00"
+						},
+						{
+							"value": "Henrikh Mkhitaryan",
+							"odd": "7.50"
+						},
+						{
+							"value": "Felix Afena-Gyan",
+							"odd": "3.00"
+						},
+						{
+							"value": "Vlad Chiriches",
+							"odd": "3.25"
+						},
+						{
+							"value": "Paolo Ghiglione",
+							"odd": "3.50"
+						},
+						{
+							"value": "Johan Vasquez",
+							"odd": "2.50"
+						},
+						{
+							"value": "Luka Lochoshvili",
+							"odd": "5.50"
+						},
+						{
+							"value": "Emanuel Aiwu",
+							"odd": "3.25"
+						},
+						{
+							"value": "Cyriel Dessers",
+							"odd": "3.75"
+						},
+						{
+							"value": "Giacomo Quagliata",
+							"odd": "2.40"
+						},
+						{
+							"value": "Jack Hendry",
+							"odd": "3.50"
+						},
+						{
+							"value": "Soualiho Meite",
+							"odd": "3.25"
+						},
+						{
+							"value": "Charles Pickel",
+							"odd": "2.75"
+						},
+						{
+							"value": "Tommaso Milanese",
+							"odd": "5.50"
+						},
+						{
+							"value": "Frank Tsadjout",
+							"odd": "3.75"
+						},
+						{
+							"value": "Leonardo Sernicola",
+							"odd": "3.25"
+						},
+						{
+							"value": "Daniel Ciofani",
+							"odd": "6.00"
+						},
+						{
+							"value": "Michele Castagnetti",
+							"odd": "2.75"
+						},
+						{
+							"value": "Matteo Bianchetti",
+							"odd": "3.75"
+						},
+						{
+							"value": "Cristian Buonaiuto",
+							"odd": "5.50"
+						},
+						{
+							"value": "Luca Zanimacchia",
+							"odd": "5.50"
+						},
+						{
+							"value": "Emanuele Valeri",
+							"odd": "3.25"
+						},
+						{
+							"value": "Mattia Zanotti",
+							"odd": "4.33"
+						},
+						{
+							"value": "Dennis Curatolo",
+							"odd": "6.00"
+						},
+						{
+							"value": "Valentin Carboni",
+							"odd": "4.75"
+						},
+						{
+							"value": "Alessandro Fontanarosa",
+							"odd": "4.33"
+						},
+						{
+							"value": "Christian  Acella",
+							"odd": "3.25"
+						},
+						{
+							"value": "Aleksandar Stankovic",
+							"odd": "2.75"
+						},
+						{
+							"value": "Marco Carnesecchi",
+							"odd": "5.50"
+						},
+						{
+							"value": "Andrei Radu",
+							"odd": "5.50"
+						},
+						{
+							"value": "Dorian Ciezkowski",
+							"odd": "5.50"
+						},
+						{
+							"value": "Gianluca Saro",
+							"odd": "5.50"
+						},
+						{
+							"value": "Mouhamadou Sarr",
+							"odd": "5.50"
+						},
+						{
+							"value": "Samir Handanovic",
+							"odd": "7.50"
+						},
+						{
+							"value": "Andre Onana",
+							"odd": "7.50"
+						},
+						{
+							"value": "Alex Cordaz",
+							"odd": "7.50"
+						},
+						{
+							"value": "Nikolaos Botis",
+							"odd": "7.50"
+						},
+						{
+							"value": "Gabriel Brazao",
+							"odd": "7.50"
+						}
+					]
+				},
+				{
+					"id": 103,
+					"name": "Player to be Sent Off",
+					"values": [
+						{
+							"value": "Romelu Lukaku",
+							"odd": "81.00"
+						},
+						{
+							"value": "Alex Ferrari",
+							"odd": "34.00"
+						},
+						{
+							"value": "Robin Gosens",
+							"odd": "51.00"
+						},
+						{
+							"value": "David Okereke",
+							"odd": "51.00"
+						},
+						{
+							"value": "Kristjan Asllani",
+							"odd": "41.00"
+						},
+						{
+							"value": "Marcelo Brozovic",
+							"odd": "34.00"
+						},
+						{
+							"value": "Matteo Darmian",
+							"odd": "51.00"
+						},
+						{
+							"value": "Hakan Calhanoglu",
+							"odd": "34.00"
+						},
+						{
+							"value": "Edin Dzeko",
+							"odd": "67.00"
+						},
+						{
+							"value": "Federico Dimarco",
+							"odd": "51.00"
+						},
+						{
+							"value": "Roberto Gagliardini",
+							"odd": "41.00"
+						},
+						{
+							"value": "Danilo D'Ambrosio",
+							"odd": "51.00"
+						},
+						{
+							"value": "Milan Skriniar",
+							"odd": "81.00"
+						},
+						{
+							"value": "Stefan de Vrij",
+							"odd": "81.00"
+						},
+						{
+							"value": "Denzel Dumfries",
+							"odd": "51.00"
+						},
+						{
+							"value": "Alessandro Bastoni",
+							"odd": "51.00"
+						},
+						{
+							"value": "Nicolo Barella",
+							"odd": "41.00"
+						},
+						{
+							"value": "Joaquin Correa",
+							"odd": "51.00"
+						},
+						{
+							"value": "Lautaro Martinez",
+							"odd": "51.00"
+						},
+						{
+							"value": "Francesco Acerbi",
+							"odd": "67.00"
+						},
+						{
+							"value": "Gonzalo Escalante",
+							"odd": "26.00"
+						},
+						{
+							"value": "Marco Benassi",
+							"odd": "34.00"
+						},
+						{
+							"value": "Raoul Bellanova",
+							"odd": "67.00"
+						},
+						{
+							"value": "Henrikh Mkhitaryan",
+							"odd": "81.00"
+						},
+						{
+							"value": "Felix Afena-Gyan",
+							"odd": "29.00"
+						},
+						{
+							"value": "Vlad Chiriches",
+							"odd": "29.00"
+						},
+						{
+							"value": "Paolo Ghiglione",
+							"odd": "34.00"
+						},
+						{
+							"value": "Johan Vasquez",
+							"odd": "26.00"
+						},
+						{
+							"value": "Luka Lochoshvili",
+							"odd": "51.00"
+						},
+						{
+							"value": "Emanuel Aiwu",
+							"odd": "29.00"
+						},
+						{
+							"value": "Cyriel Dessers",
+							"odd": "34.00"
+						},
+						{
+							"value": "Giacomo Quagliata",
+							"odd": "26.00"
+						},
+						{
+							"value": "Jack Hendry",
+							"odd": "34.00"
+						},
+						{
+							"value": "Soualiho Meite",
+							"odd": "29.00"
+						},
+						{
+							"value": "Charles Pickel",
+							"odd": "29.00"
+						},
+						{
+							"value": "Tommaso Milanese",
+							"odd": "51.00"
+						},
+						{
+							"value": "Frank Tsadjout",
+							"odd": "34.00"
+						},
+						{
+							"value": "Leonardo Sernicola",
+							"odd": "29.00"
+						},
+						{
+							"value": "Daniel Ciofani",
+							"odd": "51.00"
+						},
+						{
+							"value": "Michele Castagnetti",
+							"odd": "29.00"
+						},
+						{
+							"value": "Matteo Bianchetti",
+							"odd": "34.00"
+						},
+						{
+							"value": "Cristian Buonaiuto",
+							"odd": "51.00"
+						},
+						{
+							"value": "Luca Zanimacchia",
+							"odd": "51.00"
+						},
+						{
+							"value": "Emanuele Valeri",
+							"odd": "29.00"
+						},
+						{
+							"value": "Mattia Zanotti",
+							"odd": "41.00"
+						},
+						{
+							"value": "Dennis Curatolo",
+							"odd": "67.00"
+						},
+						{
+							"value": "Valentin Carboni",
+							"odd": "51.00"
+						},
+						{
+							"value": "Alessandro Fontanarosa",
+							"odd": "41.00"
+						},
+						{
+							"value": "Christian  Acella",
+							"odd": "29.00"
+						},
+						{
+							"value": "Aleksandar Stankovic",
+							"odd": "29.00"
+						},
+						{
+							"value": "Marco Carnesecchi",
+							"odd": "51.00"
+						},
+						{
+							"value": "Andrei Radu",
+							"odd": "67.00"
+						},
+						{
+							"value": "Dorian Ciezkowski",
+							"odd": "67.00"
+						},
+						{
+							"value": "Gianluca Saro",
+							"odd": "67.00"
+						},
+						{
+							"value": "Mouhamadou Sarr",
+							"odd": "67.00"
+						},
+						{
+							"value": "Samir Handanovic",
+							"odd": "101.00"
+						},
+						{
+							"value": "Andre Onana",
+							"odd": "101.00"
+						},
+						{
+							"value": "Alex Cordaz",
+							"odd": "101.00"
+						},
+						{
+							"value": "Nikolaos Botis",
+							"odd": "101.00"
+						},
+						{
+							"value": "Gabriel Brazao",
+							"odd": "101.00"
+						}
+					]
+				}
+			]
+		}
+	]
+}
