@@ -4,6 +4,8 @@ src="https://github.com/nepito/world_cup_semis/blob/develop/img/logo.jpeg" align
 
 # Clean odds
 [![codecov](https://codecov.io/github/niesfutbol/clean_odds/graph/badge.svg?token=eL319dwvyp)](https://codecov.io/github/niesfutbol/clean_odds)
+![example branch
+parameter](https://github.com/niesfutbol/clean_odds/actions/workflows/actions.yml/badge.svg)
 ![licencia](https://img.shields.io/github/license/niesfutbol/clean_odds)
 ![languages](https://img.shields.io/github/languages/top/niesfutbol/clean_odds)
 ![commits](https://img.shields.io/github/commit-activity/y/niesfutbol/clean_odds)
