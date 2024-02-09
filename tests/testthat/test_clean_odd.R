@@ -16,5 +16,5 @@ expected <- tibble::tibble(
 )
 describe("Match 881972", {
   obtained <- extract_bets(full_file)
-  expect_equal(obtained, expect_equal)
+  expect_equal(obtained, expected)
 })
