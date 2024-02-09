@@ -1,8 +1,8 @@
 Package: cleanOdds
 Title: Clean odds
 Authors@R: c(
-    person(given = "nies futbol",
-           family = "nies futbol",
+    person(given = "nies",
+           family = "futbol",
            role = c("aut", "cre", "cph"),
            email = "nepo@nies.futbol"
            ))
@@ -14,6 +14,7 @@ Imports:
     tidyverse
 LazyData: true
 License: AGPL-3.0-or-later
+URL: https://github.com/niesfutbol/clean_odds
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 Suggests:
