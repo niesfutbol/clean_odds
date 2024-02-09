@@ -1,8 +1,3 @@
-match_id <- 881972
-update_odd <- "2023-01-28"
-house_bets <- "Bet365"
-name_bet <- "Match Winner"
-
 extract_bets <- function(full_file) {
   match_winner <- full_file[["bookmakers"]][[1]][["bets"]][[1]][["values"]]
   expected <- tibble::tibble(
