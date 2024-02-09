@@ -20,5 +20,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Initial commit
+- `extract_bets()`
 
 [0.1.1]: https://github.com/niesfutbol/clean_odds/compare/v0.1.0...v0.1.1
