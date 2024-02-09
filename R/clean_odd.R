@@ -6,7 +6,11 @@ extract_bets <- function(full_file) {
     "value_bet" = purrr::map_chr(match_winner, ~ .$value),
     "odd_bet" = as.double(purrr::map_chr(match_winner, ~ .$odd)),
     "name_bet" = full_file[["bookmakers"]][[1]][["bets"]][[1]][["name"]],
-    "house_bets" = full_file[["bookmakers"]][[1]][["name"]]
+    "house_bets" = .extract_house_bets(full_file)
   )
   return(expected)
+}
+
+.extract_house_bets <- function(full_file) {
+  return(full_file[["bookmakers"]][[1]][["name"]])
 }
