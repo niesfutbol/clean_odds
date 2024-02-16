@@ -1,5 +1,5 @@
 extract_bets <- function(full_file) {
-  match_winner <- full_file[["bookmakers"]][[1]][["bets"]][[1]][["values"]]
+  match_winner <- .extract_match_winner(full_file)
   expected <- tibble::tibble(
     "match_id" = .extract_match_id_bets(full_file),
     "update_odd" = .extract_update_odd_bets(full_file),
@@ -9,6 +9,10 @@ extract_bets <- function(full_file) {
     "house_bets" = .extract_house_bets(full_file)
   )
   return(expected)
+}
+
+.extract_match_winner <- function(full_file) {
+  full_file[["bookmakers"]][[1]][["bets"]][[1]][["values"]]
 }
 
 .extract_house_bets <- function(full_file) {
